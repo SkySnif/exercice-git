@@ -1,4 +1,5 @@
 # DESCRIPTION : mini GIT exercice
+# AUTHOR: Luc DECAP
 
 # My first GIT repo
 # Add new line as per requested by the tuto
