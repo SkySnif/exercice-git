@@ -1,3 +1,5 @@
+# DESCRIPTION : mini GIT exercice
+
 # My first GIT repo
 # Add new line as per requested by the tuto
 # Add new again line as per requested by the tuto
@@ -6,3 +8,6 @@
 # Test git hook new rules
 
 # Test modofication in git hub directly
+
+# Add new line in Branch
+
